@@ -4,7 +4,7 @@ package com.company;
  */
 public enum Method {
     /**
-     * Метод  добавления
+     * Метод добавления
      */
     ADD,
     /**

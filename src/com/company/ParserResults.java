@@ -10,7 +10,7 @@ public class ParserResults {
 
     /**
      * Это основной метод
-     * @param initialize - начальный размер списка
+     * @param initialize -  начальный размер списка
      * @param count - количество итераций
      */
     public static void testPerformance(int initialize, int count) {

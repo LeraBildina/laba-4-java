@@ -22,7 +22,7 @@ public class Tester {
     /**
      * Конструктор
      * @param list -  список
-     * @param initialize - начальный размер списка
+     * @param initialize -  начальный размер списка
      * @param count - количество итераций
      */
     public Tester(List<Object> list, int initialize, int count) {
