@@ -107,7 +107,7 @@ public class Tester {
 
     /**
      * Этот метод возвращает время, необходимое для удаления k элементов
-     * @param position - место, куда добавляются элементы
+     * @param position - место,куда добавляются элементы
      * @return time
      */
     protected long testDeleteFrom(Position position) {

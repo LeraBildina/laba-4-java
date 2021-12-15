@@ -8,7 +8,7 @@ public enum Position {
      */
     BEGIN,
     /**
-     * Позиция середины
+     * Позиция   середины
      */
     MIDDLE,
     /**

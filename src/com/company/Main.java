@@ -18,7 +18,7 @@ public class Main {
 
         while (number!=0) {
             try {
-                System.out.println("Введите размер списка и количество итераций:");
+                System.out.println("Введите  размер списка и количество итераций:");
                 initialize = in.nextInt();
                 count = in.nextInt();
                 if (initialize >= 0 && count >= 0) {
