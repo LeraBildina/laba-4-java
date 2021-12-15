@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Main {
     /**
-     * функция   main
+     * функция main
      * @param args - аргументы
      */
     public static void main(String[] args) {
