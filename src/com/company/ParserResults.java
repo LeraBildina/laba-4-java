@@ -25,7 +25,7 @@ public class ParserResults {
     /**
      * Этот метод считывает результаты и возвращает их в табличной форме
      * @param method - метод тестируемый
-     * @param map1 - карта скорости ArrayList
+     * @param map1 -  карта скорости ArrayList
      * @param map2 - карта скорости LinkedList
      * @return res - табличная форма
      */
@@ -47,7 +47,8 @@ public class ParserResults {
             }
         }
 
-        res += String.format("%10s|%15s|%15s|\n", "      ", "ArrayList", "LinkedList");
+
+        res += String.format("%10s|%15s|%15s|\n", "      ", " ArrayList ", " LinkedList ");
         res += String.format("%10s|%15s|%15s|\n", Position.BEGIN, map1.get(Position.BEGIN), map2.get(Position.BEGIN));
         res += String.format("%10s|%15s|%15s|\n", Position.MIDDLE, map1.get(Position.MIDDLE), map2.get(Position.MIDDLE));
         res += String.format("%10s|%15s|%15s|\n", Position.END, map1.get(Position.END), map2.get(Position.END));
