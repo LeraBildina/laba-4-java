@@ -4,7 +4,7 @@ package com.company;
  */
 public enum Position {
     /**
-     * Позиция начала
+     * Позиция  начала
      */
     BEGIN,
     /**

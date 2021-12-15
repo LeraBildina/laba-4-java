@@ -24,7 +24,7 @@ public class ParserResults {
 
     /**
      * Этот метод считывает результаты и возвращает их в табличной форме
-     * @param method - метод тестируемый
+     * @param method -  метод тестируемый
      * @param map1 -  карта скорости ArrayList
      * @param map2 - карта скорости LinkedList
      * @return res - табличная форма
